@@ -17,7 +17,7 @@ This repository contains Terraform configuration files for provisioning an EC2 i
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Awais411/ec2-setup-using-terraform.git
    ```
 
 2. **Change directory:**
